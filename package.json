@@ -37,6 +37,7 @@
   },
   "devDependencies": {
     "prop-types": "^15.8.1",
+    "semver": "^7.6.3",
     "tailwindcss": "^3.4.7",
     "yarn": "^1.22.22"
   }
