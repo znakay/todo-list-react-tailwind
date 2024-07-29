@@ -25,6 +25,8 @@ module.exports = {
       xl: ["24px", "32px"],
       h1: ["60px", "68px"],
       "h1-mobile": ["42px", "46px"],
+      h2: ["52px", "56px"],
+      "h2-mobile": ["35px", "38px"],
     },
   },
   plugins: [],
