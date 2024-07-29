@@ -1,12 +1,9 @@
 import React from "react";
+import Header from "./components/Header";
 import "./App.css";
 
 const App = () => {
-  return (
-    <div className="container bg-zinc-700">
-      <h1 className="font-sans text-base lg:text-xl">Hello World!</h1>
-    </div>
-  );
+  return <Header />;
 };
 
 export default App;
